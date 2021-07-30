@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Next.js application**
 
-- 📫 How to reach me **czarq110@gmail.com**
+- 📫 How to reach me: **czarq110@gmail.com**
 
 - ⚡ Fun fact **I'm also a mountain biker!**
 
