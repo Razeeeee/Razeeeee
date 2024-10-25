@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raze</h1>
-<h3 align="center">Front End Developer</h3>
+<h3 align="center">Fulstack Developer/C++</h3>
 
 - 🔭 I’m currently working on **a C++ UI library & a student trading website**
 
